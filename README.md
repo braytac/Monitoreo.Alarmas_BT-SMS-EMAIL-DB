@@ -1,4 +1,5 @@
-# Monitoreo_Alarmas_BT-SMS-EMAIL-DB
+# MonitoreoYAlarmasConCIAA
+
 Envío de valores de tensión y señales de alarma con EDU-CIAA por BT, alertas por SMS email y almacenamiento en DB
 
 Estos archivos y directorio deberán estar en el directori raíz del firmware_v3 de la CIAA
